@@ -1,0 +1,6 @@
+1. 状态管理 ： GetX 
+2. 网络请求 ： dio
+3. 时间工具 :  event bus
+4. 数据存储 :  shared_preferences
+5. 图片缓存 :  cached_network_image:
+6. 集合控件 :  getwidget
