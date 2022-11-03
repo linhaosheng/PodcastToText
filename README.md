@@ -15,3 +15,11 @@
 
 
 UI 设计图:
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1248.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1247.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1246.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1245.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1244.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1243.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1242.PNG)
+![Image text](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/IMG_1241.PNG)
