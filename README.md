@@ -29,11 +29,11 @@ samples, guidance on mobile development, and a full API reference.
 
 
 UI 设计图:
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1248.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1247.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1246.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1245.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1244.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1243.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1242.png)
-![image](https://github.com/linhaosheng/PodcastToText/tree/main/design_img/1241.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1248.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1247.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1246.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1245.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1244.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1243.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1242.png)
+![image](https://github.com/linhaosheng/PodcastToText/blob/main/design_img/1241.png)
